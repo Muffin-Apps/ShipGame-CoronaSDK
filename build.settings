@@ -1,0 +1,10 @@
+-- build.settings 
+settings = 
+{ 
+     orientation = 
+     { 
+         default = "landscapeRight", 
+         supported = { "landscapeLeft", "landscapeRight" } 
+      },
+    
+}
